@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVVM Learning</string>
+    <string name="error_msg_invaid_email">Invalid email format</string>
+    <string name="error_msg_invaid_password">Password cannot be empty</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="none">none</string>
+</resources>
